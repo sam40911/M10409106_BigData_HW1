@@ -4,10 +4,9 @@
 
 專案中共有兩個資料夾：dataset 以及 crawler :
 #### dataset資料夾中有三個檔案: 
-"JSON_Output.json.zip.001"與 "JSON_Output.json.zip.002" 請解開壓縮檔\
-可得到原先超過 1G 的 JSON_Output.json檔案（因為Github限制單個檔案大小不能超過 100MB ）\
+"JSON_Output.json.zip.001"與 "JSON_Output.json.zip.002" 請解開壓縮檔，
+可得到原先超過 1G 的 JSON_Output.json檔案（因為Github限制單個檔案大小不能超過 100MB ）
 "m10409106.log" 紀錄資料抓取時間的 log檔
->
 #### crawler資料夾中有三個檔案: 
 包含 TwitterAPI_New.py 以及 PersistingIO.py 、PersistingIO.pyc 
 # 二. 於終端機中執行.py指令
